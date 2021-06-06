@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMemo</string>
+    <string name="name">MyMemo</string>
+    <string name="memo_edit_title">제목</string>
+    <string name="memo_edit_time">시간</string>
+    <string name="user_radio_login">로그인</string>
+    <string name="user_radio_add">사용자 추가</string>
+    <string name="user_button_check">확인</string>
+    <string name="list_auto_button">확인</string>
+
+</resources>
